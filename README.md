@@ -2,13 +2,14 @@
 [![Version](https://img.shields.io/badge/version-1.0.0-green.svg)](CHANGELOG.md)
 [![ClawhHub](https://img.shields.io/badge/Install-ClawhHub-orange)](https://clawhub.com)
 
-# Oline
+# Oline *beta*
 
-*Solving human alignment: Oline aligns your actions with your goals.*
+*To align you with your goals.*
+
 
 ---
 
-## Origin Story
+## How this idea started
 
 This started as a frustration.
 
@@ -19,6 +20,7 @@ The idea behind Oline is simple. Before anyone or any tool can help you move fas
 Oline works inside your favorite AI agent or chat. It doesn't track tasks or send you reminders to drink water. It notices what you value, watches how that lines up with how you're actually spending your time, and surfaces the gap gently, without judgment, and when you're ready to hear it.
 
 Oline is about harnessing psychology and technology in service of you and your goals.
+
 
 ---
 
@@ -31,6 +33,7 @@ Oline is about harnessing psychology and technology in service of you and your g
 - Keeps you pointed at what you said matters, across sessions and over time
 
 What it doesn't do: lecture, prescribe, or "hold you accountable" in a cringe way. It's more like a mirror that helps you reframe and see better.
+
 
 ---
 
@@ -66,6 +69,7 @@ No installation required. Copy the contents of `standalone/oline-standalone-prom
 2. Copy everything
 3. Paste as your first message in Claude, GPT, or any capable AI
 
+
 ---
 
 ## Get started
@@ -100,6 +104,7 @@ Oline Pro is about unlocking the level of personal infrastructure that makes a r
 
 **Early access:** [Join the interest list → https://oline.so/pro](https://oline.so/pro)
 
+
 ---
 
 ## Contributing
@@ -111,14 +116,16 @@ Key points:
 - By contributing, you agree contributions may be used in both open source and commercial versions
 - Be kind, constructive, and aligned with the mission
 
+
 ---
 
 ## License
 
 Licensed under [Apache 2.0](LICENSE). Copyright Oline Contributors.
 
----
 
+
+---
 
 ## Questions
 
