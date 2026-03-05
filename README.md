@@ -12,29 +12,29 @@
 
 This started as a frustration.
 
-Most productivity tools are built around the assumption that you already know what you want and just need help doing more of it. Systems, trackers, dashboards — all optimized for output. What they miss is the prior question: *is this even the right output?*
+Most productivity tools (and LLMs generally) are built around the idea that you know what you want and just need help doing more of it. All optimized for output. What they miss is the prior question: *is this even the right input?*
 
-The insight behind Oline is simpler. Before anyone can help you move faster, they need to understand where you actually want to go — not the answer you give when someone asks "what are your goals?" but the real signal buried in what lights you up, what you quietly avoid, what you'd protect if everything else had to go. That takes time. It takes listening. It takes the kind of attention that compounds across conversations.
+The idea behind Oline is simple. Before anyone or any tool can help you move faster, they need to understand where you actually want to go. And you need to understand too. This is not the answer you give when someone asks "what are your goals?" but the real signal buried in what lights you up, what you quietly avoid, what you'd protect if everything else had to go. That takes time to uncover and it takes the kind of awareness that compounds across conversations.
 
-Oline is that listener, built into your AI. It doesn't track tasks or send you reminders to drink water. It builds a model of what you value, watches how that lines up with how you're actually spending your time, and surfaces the gap — gently, without judgment — when you're ready to hear it.
+Oline works inside your favorite AI agent or chat. It doesn't track tasks or send you reminders to drink water. It notices what you value, watches how that lines up with how you're actually spending your time, and surfaces the gap gently, without judgment, and when you're ready to hear it.
 
-The name is short for *on-line* — as in, on your line. Your trajectory. Not a generic productivity system imposed from outside, but a system tuned specifically to you.
+Oline is about harnessing psychology and technology in service of you and your goals.
 
 ---
 
 ## What Oline Does
 
-- Discovers what you actually value through Socratic conversation (not forms, not assessments)
-- Builds a growing model of your energy sources, drains, patterns, and ideal self
-- Surfaces tensions between stated values and described behavior — without confronting you
-- Identifies recurring friction points and proposes systems to eliminate them
-- Keeps you pointed at what you said matters, across sessions over time
+- Discovers what you value through Socratic conversation
+- Builds a model of your energy sources, drains, patterns, and ideal self
+- Understands tensions between stated values and described behavior
+- Identifies recurring friction points and proposes systemic solutionsn where feasible
+- Keeps you pointed at what you said matters, across sessions and over time
 
-What it doesn't do: lecture, prescribe, or hold you accountable in the cringe way. It's a mirror, not a manager.
+What it doesn't do: lecture, prescribe, or "hold you accountable" in a cringe way. It's more like a mirror that helps you reframe and see better.
 
 ---
 
-## Installing Oline
+## Install
 
 ### Option 1: OpenClaw (Recommended)
 
@@ -68,19 +68,19 @@ No installation required. Copy the contents of `standalone/oline-standalone-prom
 
 ---
 
-## Quick Start
+## Get started
 
 ### With OpenClaw
 
 After installing, just start a conversation:
 
-> "Let's do an Oline session."
+> "Let's do an Oline session." or type `/skill oline`
 
 Oline will introduce itself and begin the first values-elicitation session. State is created automatically under `{workspace}/oline/`.
 
-### Standalone
+### Single prompt version for Gemini, ChatGPT, Claude, etc.
 
-Paste the standalone prompt and say hello. At the end of each session, ask:
+Paste the prompt in /standalone into your favorite AI chat and say hello. At the end of each session, ask:
 
 > "Summarize my current profile and trajectory for next time."
 
@@ -92,31 +92,13 @@ Save the response and paste it at the start of your next session to maintain con
 
 The community version gives you a powerful values-alignment companion. But some things are better with more:
 
-- **Systems Engine** — When Oline spots recurring friction, it doesn't just name it. Oline Pro builds actual automations, routines, and reminders to eliminate the friction. No more manual implementation — it's done for you.
+- **Systems Engine** — When Oline spots recurring friction, it doesn't just name it. Oline Pro builds actual automations, routines, and reminders to eliminate the friction. No more manual implementation.
 - **Trajectory Intelligence** — Your values profile becomes predictive. Oline notices patterns across months, surfacing "you tend to drift from X around this time of year" before you're in it.
-- **Deep Consistency Tracking** — Beyond values, Oline Pro tracks where your behavior diverges from what you say matters and gently approaches those gaps over time.
-- **Multi-thread Trajectories** — Track multiple life threads (career, relationships, creative work) with their own arcs, woven together intelligently.
 - **Session Insights** — After every conversation, a private debrief: what shifted, what patterns emerged, what Oline noticed but didn't say.
 
-Oline Pro is not about locking things away — it's about unlocking the level of personal infrastructure that makes a real difference.
+Oline Pro is about unlocking the level of personal infrastructure that makes a real difference.
 
 **Early access:** [Join the interest list → https://oline.so/pro](https://oline.so/pro)
-
----
-
-## The Two Versions
-
-Oline ships in two forms. The experience is identical in the first session — the value compounds over time.
-
-| Feature | Community | OpenClaw Skill |
-|---------|-----------|----------------|
-| Values elicitation | ✅ | ✅ |
-| Profile + trajectory | ⚠️ Manual | ✅ Automatic |
-| Proactive nudges | ❌ | ✅ |
-| Systematization | ⚠️ Spec only | ⚠️ Spec only |
-| Update notifications | ⚠️ Manual | ✅ Automatic |
-
-The OpenClaw skill version preserves state automatically and reaches out proactively. The standalone version requires manual state management but works in any AI.
 
 ---
 
@@ -137,6 +119,15 @@ Licensed under [Apache 2.0](LICENSE). Copyright Oline Contributors.
 
 ---
 
+
 ## Questions
 
 This was built for personal use and shared as-is. If something's unclear or you'd like to discuss, open an issue or reach out.
+
+
+---
+
+## A Note
+
+Oline is a reflective tool, not a therapist. It asks questions and listens. It doesn't diagnose, treat, or provide medical or mental health advice. If you're going through something serious, please talk to a professional.
+If you're in crisis: [findahelpline.com](https://findahelpline.com) connects you to support in your country
