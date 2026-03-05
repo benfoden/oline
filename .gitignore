@@ -1,0 +1,29 @@
+# User state files
+oline/profile.json
+oline/sessions.json
+oline/trajectory.md
+oline/.last-update-check
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment
+.env
+.env.local
+
+# Logs
+*.log
+
+# Dependencies (if any Node.js in future)
+node_modules/
+
+# Build outputs
+dist/
+build/
