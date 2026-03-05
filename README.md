@@ -4,7 +4,7 @@
 
 # Oline
 
-*A personal AI alignment engine.*
+*Solving human alignment. That is, aligning you with your own goals.*
 
 ---
 
