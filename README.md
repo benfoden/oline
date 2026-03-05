@@ -2,7 +2,7 @@
 [![Version](https://img.shields.io/badge/version-1.0.0-green.svg)](CHANGELOG.md)
 [![ClawhHub](https://img.shields.io/badge/Install-ClawhHub-orange)](https://clawhub.com)
 
-# Oline *beta*
+# Oline
 
 *To align you with your goals.*
 
