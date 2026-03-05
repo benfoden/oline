@@ -4,7 +4,7 @@
 
 # Oline
 
-*Solving human alignment. That is, aligning you with your own goals.*
+*Solving human alignment: Oline aligns your actions with your goals.*
 
 ---
 
