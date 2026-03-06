@@ -1,6 +1,6 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/version-1.0.0-green.svg)](CHANGELOG.md)
-[![ClawHub](https://img.shields.io/badge/Install-ClawHub-orange)](https://clawhub.com)
+[![ClawHub](https://img.shields.io/badge/Install-ClawHub-orange)](https://clawhub.ai/benfoden/oline)
 
 # Oline
 
