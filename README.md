@@ -44,7 +44,7 @@ What it doesn't do: lecture, prescribe, or "hold you accountable" in a cringe wa
 If you're using [OpenClaw](https://openclaw.ai), install directly via ClawhHub:
 
 ```bash
-clawhub install oline
+npx clawhub@latest install oline
 ```
 
 This will install the latest version and set up the skill. On subsequent sessions, Oline will be available automatically.

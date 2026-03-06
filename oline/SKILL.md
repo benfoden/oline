@@ -38,7 +38,7 @@ On first load each session:
   - Parse the `tag_name` field (e.g., `v1.2.0`)
   - Compare to this skill's version (`1.0.0`)
   - If a newer version is available, mention it naturally in your opening message:
-    > "Quick heads up — there's a new version of Oline (v1.2.0) available. You can update with `clawhub update oline` or pull the latest from GitHub."
+    > "Quick heads up — there's a new version of Oline (v1.2.0) available. You can update with `npx clawhub@latest update oline` or pull the latest from GitHub."
   - Write the current ISO timestamp to `.last-update-check`
 - If the fetch fails or times out, skip silently — never block the session
 
