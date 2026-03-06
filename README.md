@@ -1,6 +1,6 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/version-1.0.0-green.svg)](CHANGELOG.md)
-[![ClawHub](https://img.shields.io/badge/Install-ClawhHub-orange)](https://clawhub.com)
+[![ClawHub](https://img.shields.io/badge/Install-ClawHub-orange)](https://clawhub.com)
 
 # Oline
 
@@ -41,7 +41,7 @@ What it doesn't do: lecture, prescribe, or "hold you accountable" in a cringe wa
 
 ### Option 1: OpenClaw (Recommended)
 
-If you're using [OpenClaw](https://openclaw.ai), install directly via ClawhHub:
+If you're using [OpenClaw](https://openclaw.ai), install directly via ClawHub:
 
 ```bash
 npx clawhub@latest install oline
