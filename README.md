@@ -21,6 +21,7 @@ Oline works inside your favorite AI agent or chat. It doesn't track tasks or sen
 
 Oline is about harnessing psychology and technology in service of you and your goals.
 
+[Read the full discussion that built Oline here](https://scrapbox.io/benfoden/Oline_Origin_Story)
 
 ---
 
