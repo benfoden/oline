@@ -4,7 +4,7 @@
 
 # Oline
 
-*To align you with your goals.*
+Made to align your actions with *your* goals.
 
 
 ---
