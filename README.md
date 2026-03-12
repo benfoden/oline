@@ -4,7 +4,7 @@
 
 # Oline
 
-Made to align your actions with *your* goals.
+Harnessing psychology and technology in service of you and your goals.
 
 
 ---
@@ -18,8 +18,6 @@ Most productivity tools (and LLMs generally) are built around the idea that you 
 The idea behind Oline is simple. Before anyone or any tool can help you move faster, they need to understand where you actually want to go. And you need to understand too. This is not the answer you give when someone asks "what are your goals?" but the real signal buried in what lights you up, what you quietly avoid, what you'd protect if everything else had to go. That takes time to uncover and it takes the kind of awareness that compounds across conversations.
 
 Oline works inside your favorite AI agent or chat. It doesn't track tasks or send you reminders to drink water. It notices what you value, watches how that lines up with how you're actually spending your time, and surfaces the gap gently, without judgment, and when you're ready to hear it.
-
-Oline is about harnessing psychology and technology in service of you and your goals.
 
 [Read the full discussion that built Oline here](https://scrapbox.io/benfoden/Oline_Origin_Story)
 
