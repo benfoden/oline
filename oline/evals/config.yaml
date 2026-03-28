@@ -1,0 +1,37 @@
+# Oline — Eval Run Configuration
+target_skill: oline
+skill_root: skills/oline
+
+# Models
+runner_model: sonnet
+judge_model: haiku
+
+# Run parameters
+prompts_per_run: 4
+max_iterations: 20
+min_improvement_margin: 0.03
+max_retries_per_spawn: 2
+timeout_seconds_per_spawn: 120
+
+# Scope control — what the researcher can and cannot touch
+locked_files:
+  # Identity and purpose — changing these makes it a different skill
+  - SKILL.md#Core Philosophy
+  # Data contracts — fixtures depend on this structure
+  - SKILL.md#State Model
+  # Language detection logic — structural, not tunable
+  - SKILL.md#Language Handling
+  # Handoff interface — depends on external skill contract
+  - SKILL.md#Systematization Handoff
+  # Time-value model — calculation logic, not conversational
+  - SKILL.md#Time-Value Model
+
+mutable_files:
+  # HOW oline converses — the main tuning surface
+  - SKILL.md#Conversation Engine
+  - SKILL.md#Conversation Guidelines
+  - SKILL.md#Proactive Messaging
+  - SKILL.md#Onboarding Flow
+  - SKILL.md#Consistency Tracking
+  # Question frameworks and session arc guidance
+  - references/trajectory-engine.md
