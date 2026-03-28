@@ -1,0 +1,6 @@
+commit	score	prev_score	status	description
+591b342	0.969	0.000	baseline	initial eval - P1:7/8(single_question fail), P2:8/8, P3:8/8, P4:8/8
+4b3e3e4	0.938	0.969	discard	first message isolation - still fails (bilingual format has 2 question marks); reverted
+9f93385	1.000	0.969	keep	skip bilingual language question when user's language is detectable from opening message
+08fd994	1.000	1.000	discard	deflection-handling guidance for returning users - no improvement (at ceiling)
+b5eb0a1	1.000	1.000	discard	fix stacked question in trajectory-engine time-energy section - no score improvement (at ceiling)
