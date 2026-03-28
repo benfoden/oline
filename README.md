@@ -4,24 +4,27 @@
 
 # Oline
 
-Harnessing psychology and technology in service of you and your goals.
-
+The bottleneck is you. Oline aligns and realigns your actions with your goals.
 
 ---
 
 ## How this idea started
 
-Most productivity tools (and LLMs generally) are built around the idea that you know what you want and just need help doing more of it. In other words, optimized for output.
+The idea behind Oline is simple. Before you can move forward faster, you need to understand where you *really* want to go and then you need to close the gap between your current actions and your ideal actions.
 
-The idea behind Oline is simple. Before anyone or any AI can help you move faster, they need to understand where you actually want to go. And you need to understand too. 
-
-Oline works by asking questions and responding inside your favorite AI agent or chat. It doesn't track tasks or send you reminders to drink water. 
-
-Oline notices what you value, watches how that lines up with how you're actually spending your time, and surfaces the gap gently, without judgment, and when you're ready to hear it.
-
-Over time it aligns your behavior more closely with your goals.
 
 [Read the full discussion that built Oline here](https://scrapbox.io/benfoden/Oline_Origin_Story)
+
+---
+
+## How it works
+
+Oline works by having a discussion in your favorite AI tool such as OpenClaw or regular public LLM. 
+
+Oline notes what you want and value then watches how that lines up with how you're actually spending your time, and surfaces the gap gently, without judgment, and when you're ready to hear it.
+
+Over time it aligns your behavior with your goals so you can get what you really want.
+
 
 ---
 
